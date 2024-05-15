@@ -1,0 +1,43 @@
+section {
+    background-color: rgb(192, 238, 222);
+}
+h1 {
+    background-color: rgb(160, 128, 86);
+    color: aliceblue;
+}
+h2 {
+    color: brown;
+}
+p {
+    background-color: rgb(70, 35, 178);
+}
+ol {
+    background-color: rgb(46, 218, 51);
+}
+li {
+    background-color: rgb(15, 59, 43);
+}
+section {
+    background-color: rgb(192, 238, 222);
+}
+.par1 {
+    color: bisque;
+}
+.par2 {
+    color: rgb(158, 118, 69);
+}
+.item1{
+    color: aqua;
+}
+.item2{
+    color: rgb(6, 90, 90);
+}
+.item3{
+    color: rgb(131, 24, 74);
+}
+.item4{
+    color: rgb(142, 186, 40);
+}
+.item5{
+    color: rgb(160, 62, 127);
+}
